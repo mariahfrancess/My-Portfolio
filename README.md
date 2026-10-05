@@ -476,7 +476,7 @@
             </div>
 
             <div class="profile-piure">
-                <img src="c:\Users\mariah\Downloads\Mariah.jpg" alt="Mariah.jpg" style="width: 200px; height: 300; border-radius: 50%;">
+                <img src="Mariah.jpg" alt="Mariah.jpg" style="width: 200px; height: 300; border-radius: 50%;">
 
         </div>
 
